@@ -42,7 +42,6 @@ async function loadAllStocks() {
     });
 
   await page.goto("https://www.bmv.com.mx/es/mercados/capitales");
-  await page.screenshot({ path: "webhome.png", fullPage: true });
 
   loadData().then(saveStock);
   for (let i = 0; i < 13; i++) {

@@ -1,6 +1,6 @@
 {
   "name": "bmv-stocks",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A library to get all stocks at BMV in real time with webscrapping",
   "main": "app.js",
   "keywords": [
