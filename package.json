@@ -1,0 +1,17 @@
+{
+  "name": "bmv-stocks",
+  "version": "1.0.0",
+  "description": "A library to get all stocks at BMV in real time with webscrapping",
+  "main": "app.js",
+  "keywords": [
+    "webscrapping",
+    "bmv",
+    "bolsa mexicana de valores",
+    "stocks"
+  ],
+  "author": "Leonardo Velarde @aguacatevelarde ",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^5.2.0"
+  }
+}
